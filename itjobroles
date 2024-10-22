@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IT Job Roles</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #007BFF;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 5px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            padding: 10px;
+            border-bottom: 1px solid #ddd;
+        }
+        li:last-child {
+            border-bottom: none;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #007BFF;
+            color: white;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>IT Job Roles</h1>
+</header>
+
+<div class="container">
+    <h2>List of IT Job Roles</h2>
+    <ul>
+        <li>Software Engineer</li>
+        <li>Data Scientist</li>
+        <li>System Administrator</li>
+        <li>Network Engineer</li>
+        <li>Web Developer</li>
+        <li>Cybersecurity Analyst</li>
+        <li>DevOps Engineer</li>
+        <li>IT Project Manager</li>
+        <li>Database Administrator</li>
+        <li>Cloud Solutions Architect</li>
+    </ul>
+</div>
+
+<footer>
+    <p>&copy; 2024 IT Job Listings</p>
+</footer>
+
+</body>
+</html>
